@@ -1,0 +1,1 @@
+# gcp_delete_objects
